@@ -1,0 +1,40 @@
+{
+  "path": "/leads/{timestamp}",
+  "fields": {
+    "estilo": {
+      "type": "string",
+      "required": true,
+      "allowedValues": ["EcoBraids", "EcoDreads", "MiniBraids", "Gypsy"]
+    },
+    "email": {
+      "type": "string",
+      "required": true,
+      "format": "email"
+    },
+    "mensaje": {
+      "type": "string",
+      "required": true,
+      "maxLength": 1200
+    },
+    "timestamp": {
+      "type": "timestamp",
+      "required": true,
+      "description": "ISO 8601 string or Firestore serverTimestamp."
+    },
+    "source": {
+      "type": "string",
+      "required": true,
+      "const": "beacons"
+    }
+  },
+  "example": {
+    "path": "/leads/2026-07-03T12:00:00.000Z",
+    "data": {
+      "estilo": "EcoBraids",
+      "email": "cliente@email.com",
+      "mensaje": "Hola, quiero consultar por EcoBraids.",
+      "timestamp": "2026-07-03T12:00:00.000Z",
+      "source": "beacons"
+    }
+  }
+}

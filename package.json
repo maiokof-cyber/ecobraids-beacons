@@ -1,0 +1,12 @@
+{
+  "name": "ecobraids-beacons",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "http-server public/ -p 8080 -c-1",
+    "build": "node -e \"const fs=require('fs');fs.rmSync('dist',{recursive:true,force:true});fs.cpSync('public','dist',{recursive:true});\""
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

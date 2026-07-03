@@ -1,0 +1,50 @@
+{
+  "EcoBraids": {
+    "reutilizable": "Si",
+    "duracion": "4 a 8 semanas, segun cuidado, crecimiento y rutina de lavado.",
+    "instalacion": "3 a 5 horas, segun largo, volumen y mezcla de color.",
+    "mantencion": "Lava el cuero cabelludo con shampoo diluido, seca completamente y duerme con gorro o funda de satin.",
+    "retiro": "Retiro asistido recomendado para cuidar el largo natural y preparar la fibra para reutilizacion.",
+    "ideal_para": "Quienes buscan un estilo protector versatil, liviano y de bajo residuo.",
+    "incluye": "Diagnostico, seleccion de color, preparacion de fibra, instalacion, sellado y guia de cuidado.",
+    "precio_desde": "Desde $65.000 CLP",
+    "material": "Fibra reutilizable de bajo residuo",
+    "cuidados": "Evita dormir con el cabello humedo, hidrata raices con spray liviano y agenda revision si sientes tension."
+  },
+  "EcoDreads": {
+    "reutilizable": "Si",
+    "duracion": "6 a 10 semanas, segun crecimiento y cuidado del cuero cabelludo.",
+    "instalacion": "4 a 6 horas, segun cantidad de dreads y terminacion elegida.",
+    "mantencion": "Limpia raices por secciones, evita productos pesados y seca con aire tibio o frio.",
+    "retiro": "Retiro por secciones, sin tirones, idealmente con apoyo profesional.",
+    "ideal_para": "Look con textura marcada, volumen definido y presencia visual fuerte.",
+    "incluye": "Asesoria de estilo, preparacion de dreads, instalacion, ajuste final y pauta de mantencion.",
+    "precio_desde": "Desde $75.000 CLP",
+    "material": "Dreads sinteticas reutilizables",
+    "cuidados": "Mantener las raices secas y separar suavemente las secciones una vez por semana."
+  },
+  "MiniBraids": {
+    "reutilizable": "Si",
+    "duracion": "3 a 6 semanas, segun densidad, largo y cuidado diario.",
+    "instalacion": "5 a 8 horas, por el detalle fino de cada trenza.",
+    "mantencion": "Usa espuma liviana para controlar frizz, lava con suavidad y protege puntas durante la noche.",
+    "retiro": "Retiro paciente por secciones pequenas para evitar quiebres.",
+    "ideal_para": "Quienes quieren un acabado fino, flexible y facil de peinar.",
+    "incluye": "Diseno de particiones, instalacion detallada, sellado, revision de tension y guia de cuidado.",
+    "precio_desde": "Desde $85.000 CLP",
+    "material": "Fibra fina reutilizable",
+    "cuidados": "No aplicar aceites pesados en exceso y evitar manipular las raices constantemente."
+  },
+  "Gypsy": {
+    "reutilizable": "Parcialmente",
+    "duracion": "3 a 6 semanas, segun ondas, accesorios y rutina de cuidado.",
+    "instalacion": "4 a 7 horas, segun largo, volumen y terminacion bohemia.",
+    "mantencion": "Define las ondas con agua y crema liviana, desenreda solo puntas sueltas y protege al dormir.",
+    "retiro": "Retiro con separacion cuidadosa de trenzas y fibras onduladas.",
+    "ideal_para": "Estilo boho con movimiento, mezcla de texturas y terminacion suave.",
+    "incluye": "Asesoria de look, mezcla de fibras, instalacion, detalles boho y pauta de cuidado.",
+    "precio_desde": "Desde $90.000 CLP",
+    "material": "Fibra mixta para trenza y ondas",
+    "cuidados": "Evitar cepillar ondas desde la raiz y renovar definicion con manos humedas."
+  }
+}
